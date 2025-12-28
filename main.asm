@@ -3,9 +3,9 @@
 ;	Dr. Robotnik's Mean Bean Machine Disassembly
 ;	Original game by Compile & SEGA (1993)
 ;
-;	Disassembled by Ralakimus, Neto, and RadioTails
+;	Disassembled by Ralakimus, Neto, RadioShadow and MircaMircas (qwerty)
 ;
-;	Last Updated: 24/12/2021 (D/M/Y)
+;	Last Updated: 24/12/2021 (DD/MM/YYYY)
 ;
 ; --------------------------------------------------------------
 
